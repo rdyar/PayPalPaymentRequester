@@ -3,7 +3,7 @@ Simple windows forms app to send a link to someone requesting they click a link 
 
 PayPal Payment Form:  
 https://rdyar.github.io/PayPalPaymentForm/?amount=123.45&orderid=4321  
-PayPal Paymenr Form Repo:  
+PayPal Payment Form Repo:  
 https://github.com/rdyar/PayPalPaymentForm
 
 PayPal Payment Requester can integrate with LabWorks POS to pull in the name, email and amount when you enter in an order number.
