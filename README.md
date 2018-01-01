@@ -1,4 +1,4 @@
-# PayPalPaymentRequester
+# PayPal Payment Requester
 Simple windows forms app to send a link to someone requesting they click a link to pay on your website. You would then have the PayPal Payment Form on that page.
 
 This is built using the community version of Visual Studio.
