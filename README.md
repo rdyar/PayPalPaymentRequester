@@ -24,7 +24,7 @@ Email is best done via AWS SES and a properly secured IAM user that only has sen
 
 ![Main Screen](images/main-form.png)  
 
-![Settings Screen](images/setting.png)  
+![Settings Screen](images/settings.png)  
 
 ![email](images/email.png)  
 
